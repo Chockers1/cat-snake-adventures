@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+cat_snake_adventures/saves/*.json
+
+# Build artifacts / caches
+build/web-cache/
+build/web.zip
+build/web/*.apk
